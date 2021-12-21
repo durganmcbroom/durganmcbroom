@@ -2,7 +2,7 @@ Hey, Im Durgan!
 
 Pronouns : He/him
 
-Discord : Chestly#3239
+Discord : Chestly#6394
 
 Current project : YakClient
 
