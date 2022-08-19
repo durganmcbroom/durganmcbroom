@@ -4,7 +4,7 @@ Pronouns: He/Him
 
 ### Welcome!
 
-Im a hobbyist fullstack but mainly Kotlin/Java Framework and Application developer. I love playing Ultimate (Frisbee), Ice Hockey, Jazz with friends and petting my dog 🐕! 
+Im a hobbyist fullstack, Kotlin, Java, Framework and Application developer. I love playing Ultimate (Frisbee), Ice Hockey, Jazz (Also sax), and playing with my dog 🐕!
 
 
 ### Want to know what im doing?
