@@ -17,7 +17,7 @@ Im a hobyist fullstack but manly Kotlin/Java Framework and Application developer
 ### Contact me?
 
 <ul>
-  <li> Discord: Chestly#Chestly#6394 </li>
+  <li> Discord: Chestly#6394 </li>
   <li> Join the YakClient <a href="https://discord.gg/3fP4N27JPH">Discord server</a>?</li> 
 </ul>
 
