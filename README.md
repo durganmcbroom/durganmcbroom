@@ -20,7 +20,3 @@ Im a hobbyist fullstack, Kotlin, Java, Framework and Application developer. I lo
   <li> Discord: Chestly#6394 </li>
   <li> Join the YakClient <a href="https://discord.gg/3fP4N27JPH">Discord server</a>?</li> 
 </ul>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durganmcbroom&show_icons=true&theme=dracula"/>
-</p>
